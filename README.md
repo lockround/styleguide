@@ -4,3 +4,4 @@ Colons can be used to align columns.
 | ------------- |:-------------:| -----:|
 | webfontloader | web font | load web font seamlessly |
 | react-spring     | animations    |   better than `react-motion` |
+| react-icons    | icons    |   fas in react |
